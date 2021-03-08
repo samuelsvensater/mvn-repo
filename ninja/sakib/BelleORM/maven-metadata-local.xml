@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ninja.sakib</groupId>
+  <artifactId>BelleORM</artifactId>
+  <versioning>
+    <release>v1.8</release>
+    <versions>
+      <version>v1.8</version>
+    </versions>
+    <lastUpdated>20210308073704</lastUpdated>
+  </versioning>
+</metadata>

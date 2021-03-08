@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 08 08:37:04 CET 2021
+BelleORM-v1.8.pom>=
+BelleORM-v1.8.jar>jitpack.io=
+BelleORM-v1.8.pom>jitpack.io=
+BelleORM-v1.8.jar>=
